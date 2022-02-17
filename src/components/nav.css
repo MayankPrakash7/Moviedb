@@ -1,0 +1,10 @@
+.Nav{
+    width:100%;
+    min-width:2100px;
+  
+}
+
+.Toolbar{
+    display: flex;
+    justify-content: space-around;
+}

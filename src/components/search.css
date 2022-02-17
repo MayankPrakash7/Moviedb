@@ -1,0 +1,14 @@
+.input-field-con{
+    color: whitesmoke;
+
+  }
+
+  .input-field{
+      padding-left: 5px;
+      backdrop-filter: blur(7px) saturate(280%);
+      width:100%;
+      max-width:1200px;
+  }
+
+
+   
